@@ -319,7 +319,7 @@ ul {
 }
 
 .team-icon {
-    
+  fill: var(--footer-logo-color);  
 }
 
 /* CUSTOMERS */
